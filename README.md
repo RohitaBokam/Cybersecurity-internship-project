@@ -1,4 +1,4 @@
-# Cybersecurity-internship-project
+# Cybersecurity-internship-project-2
 # Ethical_Email_Phishing_Simulation
 Email phishing simulation is a cybersecurity training exercise where organizations send fake, but realistic, phishing emails to their own employees. The purpose is not to hack them, but to test and improve their ability to recognize and avoid phishing attacks in a safe environment.
 
